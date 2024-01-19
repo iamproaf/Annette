@@ -42,7 +42,6 @@ from FallenRobot import (
     OWNER_ID,
     SUPPORT_CHAT,
     TOKEN,
-    URL,
     WEBHOOK,
     StartTime,
     dispatcher,
