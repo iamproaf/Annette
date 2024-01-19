@@ -356,6 +356,7 @@ def help_button(update, context):
                 ]
             ),
         )
+    
     elif query.data == "fallen_back":
         first_name = update.effective_user.first_name
         query.message.edit_text(
