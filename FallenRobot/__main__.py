@@ -35,14 +35,11 @@ from telegram.ext.dispatcher import DispatcherHandlerStop, run_async
 from telegram.utils.helpers import escape_markdown
 
 from FallenRobot import (
-    ALLOW_EXCL,
-    BL_CHATS,
     CERT_PATH,
     LOGGER,
     OWNER_ID,
     SUPPORT_CHAT,
     TOKEN,
-    WEBHOOK,
     StartTime,
     dispatcher,
     pbot,
