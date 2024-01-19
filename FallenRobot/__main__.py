@@ -36,6 +36,7 @@ from telegram.utils.helpers import escape_markdown
 
 from FallenRobot import (
     CERT_PATH,
+    ALLOW_EXCL,
     LOGGER,
     OWNER_ID,
     SUPPORT_CHAT,
