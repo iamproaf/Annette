@@ -40,7 +40,6 @@ from FallenRobot import (
     CERT_PATH,
     LOGGER,
     OWNER_ID,
-    PORT,
     SUPPORT_CHAT,
     TOKEN,
     URL,
