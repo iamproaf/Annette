@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/iamproaf/annette/blob/master/anneteupdated/resources/fglitch.gif">
+  <img src="https://github.com/iamproaf/annette/blob/master/annette/resources/fglitch.gif">
 </p>
 
 
